@@ -13,7 +13,7 @@ Doing this project helped me understand that even though code within a .html / .
 far as knowing what sections of code apply to what parts of the webpage. With practice I hope to be able to write both functional and intuitive code quicker than I can today!
 
 ## Screenshot of Deployed Website
-![Meeting Image](https://raw.githubusercontent.com/StevenEi/Homework01/main/assets/images/ReadmeImage01.png)
+![Meeting Image](https://github.com/StevenEi/Homework01/blob/main/assets/images/ReadmeImage01.png)
 ![alt text](https://github.com/[StevenEi]/[Homework01]/blob/[main]/ReadmeImage02.png?raw=true)
 
 ## URL to Deployed Website

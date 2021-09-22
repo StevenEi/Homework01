@@ -14,7 +14,6 @@ far as knowing what sections of code apply to what parts of the webpage. With pr
 
 ## Screenshot of Deployed Website
 ![Meeting Image](https://github.com/StevenEi/Homework01/blob/main/assets/images/ReadmeImage01.png)
-![alt text](https://github.com/[StevenEi]/[Homework01]/blob/[main]/ReadmeImage02.png?raw=true)
 
 ## URL to Deployed Website
 https://stevenei.github.io/Homework01/#social-media-marketing
